@@ -1,0 +1,142 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: sans-serif;
+	}
+#wrapper {
+  width: 970px;
+
+}
+#header img {
+  width: 65px;
+  background-color: white;
+}
+#header span {
+  color: #2980B9;
+}
+#header h1 {
+  background-color: white;
+  display: inline-block;
+  margin-left: 10px;
+  font-size: 48px;
+  vertical-align: top;
+  margin-top: 7px;
+}
+#header h2 {
+  background-color: #2980B9;
+  height: 50px;
+  color: white;
+  padding: 20px 0 0 20px;
+  font-size: 28px;
+}
+#mainbody {
+  background-color: #F2F3F4;
+  padding: 10px;
+}
+#sidebar {
+  width: 220px;
+  display: inline-block;
+}
+#sidebartop {
+  border-bottom: 2px solid black;
+  padding-bottom: 10px;
+}
+#sidebartop h3 {
+  margin-bottom: 10px;
+}
+#sidebartop h3 span {
+  color: red;
+}
+#sidebartop p {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+#sidebartop p span {
+  color: #2980B9;
+}
+#sidebartop button {
+  display: block;
+  margin: 10px auto;
+  width: 90%;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px black;
+  color: white;
+  font-size: 16px;
+
+}
+#orange {
+  background-color: #F39C12;
+}
+#blue {
+
+  background-color: #2980B9;
+}
+#backimg {
+  width: 100%;
+  box-shadow: 2px 2px 2px grey;
+  margin-top: 15px;
+  position: relative;
+  z-index: 0;
+}
+#sidebarbottom p {
+  font-size: 22px;
+  text-align: center;
+  position: absolute;
+  top: 415px;
+  left: 18px;
+  z-index: 1;
+  color: white;
+}
+#ninja {
+  width: 150px;
+  position: absolute;
+  top: 470px;
+  left: 40px;
+  z-index: 10;
+}
+#sidebarbottom button {
+  width: 200px;
+  position: absolute;
+  top: 670px;
+  display: inline-block;
+  left: 20px;
+  padding: 10px;
+  background-color: #85C1E9;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px grey;
+  color: white;
+  font-size: 20px;
+}
+#righthead {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 40px;
+  border-bottom: 2px solid grey;
+}
+#bodyhead {
+  display: inline-block;
+}
+#bodyhead img {
+  width: 20px;
+}
+#bodyheadright {
+  display: inline-block;
+  text-align: right;
+  float: right;
+  margin-left:430px;
+  padding-bottom: 10px;
+
+}
+#bodyheadright h2 {
+  color: #2980B9;
+  font-size: 30px;
+}
+#bodyheadright img {
+  width: 40px;
+  margin-right: 50px;
+  position: absolute;
+  top: 160px;
+  left: 720px;
+
+}
